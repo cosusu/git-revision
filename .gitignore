@@ -1,1 +1,4 @@
+# Files listed here are ignored in git #
+
 git_commands
+/ignore_this
