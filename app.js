@@ -6,4 +6,4 @@
  * Purpose: Used for git revision
  */
  
-console.long("hello");
+console.long("hello!");
