@@ -1,0 +1,16 @@
+## BASICS ##
+git init		# initialise local git repository
+git add <file>		# add file to index (staging area) !use '.' to add all files!
+git rm --cached <file>	# removes file from staging area
+git status		# check status of working tree
+git commit		# commit changes/files in index
+
+
+## REMTOTE REPO ##
+git push		# push local repo to remote
+git pull		# pull latest from remote repo
+git clone		# clone repo into new directory
+
+## GENERAL STEPS ##
+1. git init in the folder
+2. add files to staging area
