@@ -1,1 +1,1 @@
-This is a git revision/experiemnt repo. Learn and test out git and github commands here.
+This is a git revision/experiment repo. Learn and test out git and github commands here.
